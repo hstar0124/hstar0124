@@ -51,6 +51,15 @@ Here are some ideas to get you started:
 
 ### 아이엠오 | 2020.10 ~ 2022.04. (1년 7개월)
 
+**개발 환경**
+
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JUint5-25A162?style=flat-square&logo=junit5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/NginX-009639?style=flat-square&logo=nginx&logoColor=white"/></a>
+
 **담당 업무(백엔드 개발자)**
 
 [REST API 서버 마이그레이션]
