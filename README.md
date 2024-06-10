@@ -79,6 +79,16 @@ Here are some ideas to get you started:
 ### Whagile(애자일 서비스) | 2022.06 ~ 2022.07
 https://github.com/hstar0124/whagile
 
+**개발 환경**
+
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Express.js-FF7200?style=flat-square&logo=expressjs&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Docket-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/></a>
+
 회원관리, DB 설계 및 스크립트 관리, Docker/Docker-compose 세팅을 담당하여 개발 진행
 - **Figma** 를 이용하여 프로토타입 제작
 - **JWT 토큰**을 이용한 로그인 구현
