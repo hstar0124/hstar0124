@@ -84,7 +84,7 @@ https://github.com/hstar0124/aspNetCore-logApiServer
 **개발 환경**
 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C#-512BD4?style=flat-square&logo=csharp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSharp-512BD4?style=flat-square&logo=csharp&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Asp.NetCore-512BD4?style=flat-square&logo=dotnet&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Protobuf-F50057?style=flat-square&logo=Protobuf&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/boost-0288D1?style=flat-square&logo=Boost&logoColor=white"/></a>
