@@ -100,7 +100,7 @@ https://github.com/hstar0124/whagile
 - **MySQL** 을 활용한 DB 처리
 
 ### GroupWhale(그룹웨어 서비스) | 2020.04 ~ 2020.05
-https://github.com/hstar0124/whagile
+https://github.com/hstar0124/group-whale
 
 **개발 환경**
 
