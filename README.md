@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 ### 두다지 | 2023.06 ~ 2023.12. (7개월)
 
 **개발 환경**
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 **담당 업무(백엔드 개발자)**
 
