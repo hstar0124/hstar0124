@@ -54,9 +54,20 @@ Here are some ideas to get you started:
 ### Whagile(애자일 서비스) | 2022.06 ~ 2022.07
 https://github.com/hstar0124/whagile
 
-회원관리, DB 설계 및 스크립트 관리, Docker/Docker-compose 세팅을 담당하고 개발 진행
+회원관리, DB 설계 및 스크립트 관리, Docker/Docker-compose 세팅을 담당하여 개발 진행
 - **Figma** 를 이용하여 프로토타입 제작
 - **JWT 토큰**을 이용한 로그인 구현
 - **AWS EC2**에 **Docker**로 기동
 - MVC 패턴을 적용하여 개발
-- **RDB 설계** 및 DB Script 관리 담당
+- **RDB 설계**할 때 이상현상을 최소한으로 하기 위해 **정규화** 진행 및 DB Script 관리 담당
+
+### GroupWhale(그룹웨어 서비스) | 2022.04 ~ 2022.05
+https://github.com/hstar0124/whagile
+
+로그인/회원가입, 계정관리, 피드형 게시판, 조직도 관리, 날씨 크롤링을 담담하여 개발 진행
+- Draw.io를 이용하여 **시퀀스 다이어그램**, **유스케이스 다이어그램** 작성
+- **RDB 설계**할 때 이상현상을 최소한으로 하기 위해 **정규화** 진행
+- Spring 내에 **bcrypt**를 활용하여 **비밀번호 암호화**
+- **JSOUP api** 를 활용하여 네이버 날씨 **크롤링**
+- **jQuery, Ajax** 를 활용하여 페이지 일부분 갱신
+- **Mybatis**를 활용한 DB CRUD 진행
