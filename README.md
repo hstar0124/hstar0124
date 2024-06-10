@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docket-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/></a>
+
 
 **담당 업무(백엔드 개발자)**
 
