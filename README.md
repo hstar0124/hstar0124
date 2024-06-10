@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 **개발 환경**
 
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-F8DC75?style=flat-square&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JUint5-25A162?style=flat-square&logo=junit5&logoColor=white"/></a>
@@ -88,6 +89,7 @@ https://github.com/hstar0124/whagile
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docket-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>
 
 회원관리, DB 설계 및 스크립트 관리, Docker/Docker-compose 세팅을 담당하여 개발 진행
 - **Figma** 를 이용하여 프로토타입 제작
@@ -100,6 +102,16 @@ https://github.com/hstar0124/whagile
 ### GroupWhale(그룹웨어 서비스) | 2020.04 ~ 2020.05
 https://github.com/hstar0124/whagile
 
+**개발 환경**
+
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Ajax-0769AD?style=flat-square&logo=Ajax&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
 로그인/회원가입, 계정관리, 피드형 게시판, 조직도 관리, 날씨 크롤링을 담당하여 개발 진행
 - Draw.io를 이용하여 **시퀀스 다이어그램**, **유스케이스 다이어그램** 작성
 - **RDB 설계**할 때 이상현상을 최소한으로 하기 위해 **정규화** 진행
@@ -110,6 +122,16 @@ https://github.com/hstar0124/whagile
 
 ### 중고구매(중고매입 및 렌탈 서비스) | 2020.02 ~ 2020.03
 https://github.com/hstar0124/second-rental
+
+**개발 환경**
+
+<img src="https://img.shields.io/badge/Java-F8DC75?style=flat-square&logo=java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Ajax-0769AD?style=flat-square&logo=Ajax&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Websocket-010101?style=flat-square&logo=Websocket&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 1:1 실시간 채팅, 장바구니, 위시리스트, 상품상세페이지를 담당하여 개발 진행
 - **WebSocket** 을 이용한 채팅 구현
