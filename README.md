@@ -89,7 +89,7 @@ https://github.com/hstar0124/aspNetCore-logApiServer
 <img src="https://img.shields.io/badge/CSharp-512BD4?style=flat-square&logo=csharp&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Asp.NetCore-512BD4?style=flat-square&logo=dotnet&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Protobuf-F50057?style=flat-square&logo=Protobuf&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/boost-0288D1?style=flat-square&logo=Boost&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/boost-0288D1?style=flat-square&logo=b&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
