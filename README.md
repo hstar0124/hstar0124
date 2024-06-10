@@ -78,7 +78,9 @@ Here are some ideas to get you started:
 ## 🌱 프로젝트
 
 ### Chatting(채팅 서비스) | 2024.04 ~ 
+
 https://github.com/hstar0124/cpp-boost-chat
+
 https://github.com/hstar0124/aspNetCore-logApiServer
 
 **개발 환경**
@@ -95,7 +97,7 @@ https://github.com/hstar0124/aspNetCore-logApiServer
 
 소켓통신, 로그인/회원가입 API 서버, DB 관련 담당하여 개발 진행
 - Boost Asio 활용한 **비동기 Socket** 빠른 통신
-- **Protobuf** 를 활용한 **직렬화/비직렬화** 하여 JSON 대비 통신 패킷 2/3 감소
+- **Protobuf** 를 활용한 **직렬화/비직렬화** 하여 JSON 대비 **통신 패킷 2/3** 감소
 - Asp Net Core **로그인/회원가입 API 서버** 구현
 - API 서버 MVC 패턴을 적용하여 개발
 - **Redis**, **MySQL** 을 활용한 DB 처리
