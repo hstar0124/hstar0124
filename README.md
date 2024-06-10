@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JUint5-25A162?style=flat-square&logo=junit5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/NginX-009639?style=flat-square&logo=nginx&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 **담당 업무(백엔드 개발자)**
 
