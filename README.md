@@ -82,4 +82,4 @@ https://github.com/hstar0124/second-rental/tree/develop
 - Chart.js 를 활용한 상품 정보 차트화
 - **jQuery, Ajax** 를 활용하여 페이지 일부분 갱신
 - **RDB 설계**할 때 이상현상을 최소한으로 하기 위해 **정규화** 진행 및 DB Script 관리 담당
-- - **Mybatis**를 활용한 DB(Oracle) CRUD 진행
+- **Mybatis**를 활용한 DB(Oracle) CRUD 진행
