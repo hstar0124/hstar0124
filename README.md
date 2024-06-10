@@ -74,7 +74,7 @@ https://github.com/hstar0124/whagile
 - **Mybatis**를 활용한 DB(Oracle) CRUD 진행
 
 ### 중고구매(중고매입 및 렌탈 서비스) | 2020.02 ~ 2020.03
-https://github.com/hstar0124/second-rental/tree/develop
+https://github.com/hstar0124/second-rental
 
 1:1 실시간 채팅, 장바구니, 위시리스트, 상품상세페이지를 담당하여 개발 진행
 - **WebSocket** 을 이용한 채팅 구현
