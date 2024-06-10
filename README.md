@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=HStar0124&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&fontColor=ffffff&desc=It's%My%20GitHub)
+![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=HStar0124&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&fontColor=ffffff&desc=It's%20My%20GitHub)
 
 <!--
 **hstar0124/hstar0124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
