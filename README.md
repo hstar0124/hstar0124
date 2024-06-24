@@ -83,7 +83,7 @@ https://github.com/hstar0124/hstar-project
 
 **프로젝트 아키텍처**
 
-<img src="https://github.com/hstar0124/hstar0124/assets/57317290/14f0c460-b23b-4dff-a4d2-8ce9ac1acec8" width="200" height="200"/>
+<img src="https://github.com/hstar0124/hstar0124/assets/57317290/14f0c460-b23b-4dff-a4d2-8ce9ac1acec8" width="500" height="400"/>
 
 
 **개발 환경**
