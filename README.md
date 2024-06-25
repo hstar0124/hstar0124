@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 ## 🌱 프로젝트
 
-### Chatting(채팅 서비스) | 2024.04 ~ 
+### HStar Project | 2024.04 ~ 
 
 https://github.com/hstar0124/hstar-project
 
