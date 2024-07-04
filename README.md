@@ -81,9 +81,13 @@ Here are some ideas to get you started:
 
 https://github.com/hstar0124/hstar-project
 
-**프로젝트 아키텍처**
+### 프로젝트 아키텍처
 
-<img src="https://github.com/hstar0124/hstar0124/assets/57317290/14f0c460-b23b-4dff-a4d2-8ce9ac1acec8" width="650" height="550"/>
+<img src="https://github.com/hstar0124/hstar-project/assets/57317290/cdd2701d-590f-49ac-83a5-f8d310cf3005" width="750" height="560"/>
+
+### Socket 서버 구조도
+
+<img src="https://github.com/hstar0124/hstar-project/assets/57317290/ca66e1de-bfc0-4d00-ae74-64ec5dfac3a9" width="850" height="400"/>
 
 
 **개발 환경**
