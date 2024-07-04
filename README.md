@@ -94,6 +94,7 @@ https://github.com/hstar0124/hstar-project
 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSharp-512BD4?style=flat-square&logo=csharp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/EntityFrameWorkCore-512BD4?style=flat-square&logo=&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Asp.NetCore-512BD4?style=flat-square&logo=dotnet&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Protobuf-F50057?style=flat-square&logo=Protobuf&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/boost-0288D1?style=flat-square&logo=b&logoColor=white"/></a>
@@ -103,11 +104,25 @@ https://github.com/hstar0124/hstar-project
 <img src="https://img.shields.io/badge/VisualStudio2022-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/></a>
 
 소켓통신, 로그인/회원가입 API 서버, DB 관련 담당하여 개발 진행
-- Boost Asio 활용한 **비동기 Socket** 빠른 통신
-- **Protobuf** 를 활용한 **직렬화/비직렬화** 하여 JSON 대비 **통신 패킷 2/3** 감소
-- Asp Net Core **로그인/회원가입 API 서버** 구현
-- API 서버 MVC 패턴을 적용하여 개발
-- **Redis**, **MySQL** 을 활용한 DB 처리
+
+**[API 서버]**
+
+로그인/유저 CRUD 기능 제공
+Protobuf 를 활용한 Http Body 직렬화/역직렬화 하여 **JSON 대비 패킷 2/3 절감**
+Password 를 **Hash + Salt 하여 개인정보 보호**
+Service를 Read / Write 부분을 분리하여 구현함으로 복잡성 관리
+**MVC 패턴**을 적용하여 **유지보수성, 확장성, 유연성** 확보
+**EntityFrameworkCore** 를 적용하여 **생산성** 향상
+
+**[소켓 서버]**
+
+**Redis** 에서 Session Key 를 활용하여 로그인 처리함으로** API Server 와 결합도 낮춤**
+**비동기 TCP 소켓 통신** 기능
+Protobuf 를 활용한 Http Body 직렬화/역직렬화 하여 **JSON 대비 패킷 2/3 절감**
+각 유저 메시지를 **Swap Queue 구조**로 구현하여 Lock 최소화
+최대 동접자를 관리 할 수 있도록 **유저 대기열 구현**
+**중복 로그인 체크** 하여 기존 로그인 Close 구현
+DB 작업은 Queue에 담아 **Multi thread** 로 처리
 
 ### Whagile(애자일 서비스) | 2022.06 ~ 2022.07
 https://github.com/hstar0124/whagile
