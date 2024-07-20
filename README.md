@@ -119,7 +119,7 @@ https://github.com/hstar0124/hstar-project
 
 **[소켓 서버]**
 
-- **Redis** 에서 Session Key 를 활용하여 로그인 처리함으로** API Server 와 결합도 낮춤**
+- **Redis** 에서 Session Key 를 활용하여 로그인 처리함으로 **API Server 와 결합도 낮춤**
 - **비동기 TCP 소켓 통신** 기능
 - Protobuf 를 활용한 Http Body 직렬화/역직렬화 하여 **JSON 대비 패킷 2/3 절감**
 - 각 유저 메시지를 **Swap Queue 구조**로 구현하여 Lock 최소화
