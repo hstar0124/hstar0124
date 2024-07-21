@@ -31,12 +31,24 @@ Here are some ideas to get you started:
 
 ### Backend
 - Java, Spring, SpringBoot
-  - Java : 순수 자바로 개발된 메시징 어플리케이션 담당하여 개발 및 유지보수 진행
 - C++, C#, ASP.NET CORE
 - Python
-- MySQL, PostgreSQL
+- MySQL, PostgreSQL, Redis
+- Mybatis, EntityFrameworkCore 
 - AWS EC2, AWS S3
+- Protobuf
 
+### Frontend
+- HTML5, CSS3, javascript
+- jQuery, Ajax
+- Thymeleaf
+
+### Tool
+- IntelliJ, Visual Studio 2022, VS Code
+- Github
+- Notion, Slack
+- Postman
+- Figma
 
 
 ## 👯 경력 (2년 4개월)
