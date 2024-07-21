@@ -150,8 +150,8 @@ https://github.com/hstar0124/hstar-project
 
 ### Socket 서버 구조도
 
+<img src="https://github.com/user-attachments/assets/7a8baf3f-605c-4cb0-ab09-27693a5fa7e2" width="710" height="290"/>
 
-<img src="https://github.com/user-attachments/assets/7a8baf3f-605c-4cb0-ab09-27693a5fa7e2" width="680" height="240"/>
 
 **개발 환경**
 
