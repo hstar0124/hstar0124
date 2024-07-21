@@ -51,6 +51,8 @@ Here are some ideas to get you started:
 - Figma
 
 
+
+
 ## 👯 경력 (2년 4개월)
 
 ### 두다지 | 2023.06 ~ 2023.12. (7개월)
