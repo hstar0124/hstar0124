@@ -135,6 +135,8 @@ Here are some ideas to get you started:
 
 ## 🌱 프로젝트
 
+**각 프로젝트에 자세한 설명은 프로젝트 별 Github 링크을 눌러보시면 확인 가능합니다!**
+
 ### HStar Project | 2024.04 ~ 2024.07
 
 https://github.com/hstar0124/hstar-project
