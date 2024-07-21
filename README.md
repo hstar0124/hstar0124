@@ -24,7 +24,19 @@ Here are some ideas to get you started:
 최근엔 **C++** 과 **ASP.NET CORE(C#)** 을 활용하여 프로젝트를 진행하였습니다.
 
 프로그램의 요구사항은 꾸준히 변경될 수밖에 없기 때문에 처음부터 완벽한 소스는 없다고 생각합니다. 
+
 하지만 지속적인 개발을 위한 **높은 응집성, 낮은 결합성**을 가진 코드를 작성하기 위해 노력하고 있습니다.
+
+## 🛠️ Skills
+
+### Backend
+- Java, Spring, SpringBoot
+  - Java : 순수 자바로 개발된 메시징 어플리케이션 담당하여 개발 및 유지보수 진행
+- C++, C#, ASP.NET CORE
+- Python
+- MySQL, PostgreSQL
+- AWS EC2, AWS S3
+
 
 
 ## 👯 경력 (2년 4개월)
