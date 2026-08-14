@@ -1,256 +1,255 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=HStar0124&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&fontColor=ffffff&desc=It's%20My%20GitHub)
+![header](https://capsule-render.vercel.app/api?type=Waving\&section=header\&height=300\&text=HStar0124\&fontAlignX=50\&fontAlignY=45\&color=gradient\&fontSize=100\&fontColor=ffffff\&desc=Backend%20%2F%20Server%20Developer)
 
-<!--
-**hstar0124/hstar0124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
 
-Here are some ideas to get you started:
+안녕하세요. **실시간성과 안정성을 중요하게 생각하는 백엔드 / 서버 개발자**입니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java를 시작으로 Python을 거쳐 현재는 **C++ 기반의 실시간 음성 AI 게이트웨이(RTGW)** 를 개발하고 있습니다.
 
-## 💬 자기소개
+도메인은 메시징, 데이터 수집 자동화, AI 음성 처리로 변화해왔지만 주로 다음과 같은 문제를 해결해왔습니다.
 
-저는 주로 서버 백엔드 개발을 수행해왔습니다. 이제까지 일평균 200만 건의 메시지를 발송하는 대규모 트래픽과 데이터 환경에서 Java 어플리케이션 및 API 서버의 개발과 유지보수를 담당했습니다. 
-IDC 및 클라우드 환경에서의 개발과 배포 경험이 있으며, 최근에는 Python 환경에서 수집 자동화 시스템을 개발하는 업무를 맡았습니다. 
+* 대규모 트래픽 환경에서의 안정적인 서버 처리
+* 외부 시스템의 지연 및 장애가 핵심 서비스로 전파되지 않는 구조 설계
+* gRPC, WebSocket, TCP, REST 기반의 시스템 연동
+* 비동기 처리와 Queue를 활용한 실시간 처리 경로 분리
+* Redis 기반 세션 관리 및 Active-Active 환경 대응
+* 운영 환경에서 발생하는 장애 분석과 리소스 문제 해결
+* 레거시 시스템 리팩토링 및 테스트 코드 도입
 
-또한 C++과 C#을 활용한 토이 프로젝트 경험이 있어, 다양한 요구사항에 맞춘 개발 역량을 쌓았습니다.
+현재는 일평균 약 **5만 Call / 10만 Session 규모의 실시간 음성 처리 시스템**을 개발하고 운영하며,
+STT/TTS 엔진과 상담 시스템 사이의 실시간 트래픽을 안정적으로 중계하는 일을 하고 있습니다.
 
-프로그램의 요구사항은 지속적으로 변하기 때문에 완벽한 소스 코드는 처음부터 존재할 수 없다고 생각합니다. 그러나 저는 기술 부채를 갚기 위해 꾸준히 높은 응집성과 낮은 결합성을 가진 코드를 작성하는 것을 목표로 하고 있습니다.
+언어나 프레임워크보다 **문제에 적합한 기술을 선택하는 것**을 중요하게 생각하며,
+장애를 사후 대응하는 것보다 **장애가 서비스 전체로 전파되지 않도록 구조적으로 설계하는 것**에 관심이 많습니다.
 
-## 🛠️ Skills
+최근에는 Claude Code를 비롯한 AI 개발 도구를 코드 탐색, 반복 구현, 테스트 작성 및 리뷰 보조에 활용하며 개발 생산성을 높이고 있습니다.
 
-### Backend
-- Java, Spring, SpringBoot
-- C++, C#, ASP.NET CORE
-- Python
-- MySQL, PostgreSQL, Redis
-- Mybatis, EntityFrameworkCore 
-- AWS EC2, AWS S3
-- Protobuf
+---
 
-### Frontend
-- HTML5, CSS3, javascript
-- jQuery, Ajax
-- Thymeleaf
+## 🛠 Tech Stack
 
-### Tool
-- IntelliJ, Visual Studio 2022, VS Code
-- Github
-- Notion, Slack
-- Postman
-- Figma
+### Languages
 
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
+### Backend & Communication
 
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square"/>
+<img src="https://img.shields.io/badge/Protobuf-4285F4?style=flat-square&logo=google&logoColor=white"/>
 
-## 👯 경력 (2년 4개월)
+### Data
 
-### 두다지 | 2023.06 ~ 2023.12. (7개월)
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>
 
-**개발 환경**
+### Infrastructure & Tools
 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Docket-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
+---
 
-**담당 업무(불법 웹사이트 자동 수집 어플리케이션 개발)**
+## 💼 Experience
 
-**1. 주요 내용**
-  - C++로 된 자동 수집 어플리케이션을 Python으로 마이그레이션 진행
-  - 알 수 없는 이유로 수집이 되지 않는 버그 해결
-    
-**2. 기여한 점**
-  - C++에서 통합되지 않고 반복되었던 소스코드 리팩토링
-  - 원인을 알 수 없는 오류를 최대한 줄이기 위한 테스크 코드 작성 진행
-  - 중복 코드 모듈화 및 코드 리팩토링 전반 진행
-  - 팀원과 상의하에 **관계형 DB 분석 및 설계** 진행
-  - **클라우드(AWS- Ubuntu) 환경**에서 개발 및 배포 진행
-    
-**3. 결과/성과**
-  - 기존에 불필요하게 존재했던 **소스코드 30% 이상 절감** 및 **가독성** 향상
-  - **테스트 코드 작성**을 하여 **견고성 강화**
+### 라피치 | Backend / Server Developer
 
+**2024.08 ~ Present**
 
-### 아이엠오 | 2020.10 ~ 2022.04. (1년 7개월)
+실시간 음성 AI 게이트웨이(RTGW)의 설계, 개발 및 운영을 담당하고 있습니다.
 
-**개발 환경**
+STT/TTS 엔진과 상담 시스템 사이에서 실시간 음성 트래픽을 중계하며
+**C++, gRPC, WebSocket, TCP, REST API, Redis** 등을 활용하고 있습니다.
 
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-F8DC75?style=flat-square&logo=java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JUint5-25A162?style=flat-square&logo=junit5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/NginX-009639?style=flat-square&logo=nginx&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+#### 주요 경험
 
-**담당 업무(문자/알림톡 발송 어플리케이션 고도화)**
+* 일평균 약 **5만 Call / 10만 Session** 규모의 실시간 음성 트래픽 처리
+* 3종의 서로 다른 STT 엔진을 하나의 RTGW에서 운영할 수 있도록 **Plugin 구조 설계**
+* Redis 기반 중앙 Session 관리 및 **Active-Active 환경 대응**
+* Redis 장애가 실시간 통화로 전파되지 않도록 **Fail-Open 정책 설계**
+* 실시간 gRPC 처리 경로와 외부 REST 연동을 분리한 **비동기 처리 구조 설계**
+* Queue 기반 전송 구조를 통한 이벤트 데이터 **순서 보장 및 장애 대응**
+* 외부 API 요청 집중으로 발생하는 병목을 완화하기 위한 **Sharding 구조 적용**
+* File Descriptor 누수 및 장시간 점유되는 gRPC Channel 등 운영 환경의 리소스 문제 분석 및 해결
+* 운영 서버 설치, 배포, 모니터링 및 장애 대응
 
-**1. 주요 내용**
-  - 일평균 발송량 200만건 이상 발송되는 메시지 발송 어플리케이션 개발자로 개발 및 장애 대응
-  - 버그 및 코드 견고성 강화
-  - 각 기업별로 어플리케이션 커스터마이징 진행
-  
-**2. 기여한 점**
-  - 스파이크성 트래픽 발생할 경우 어플리케이션이 다운되는 **버그 해결**
-  - DB Connection 반환 하지 않은 **버그 해결**
-  - 각 기업에 맞게 **어플리케이션 커스터마이징** 진행
-  - 테스트 코드 작성하여 **코드 견고성 강화**
-    
-**3. 결과/성과**
-  - 메시징 어플리케이션 고객에게 오는 문의 기존 대비 **60% 해결**
-  - 어플리케이션 운영의 **안정성 향상**
-  - **Line Coverage 0% -> 65%** 달성
-    
+#### 주요 프로젝트
 
-**담당 업무(REST API 서버 마이그레이션)**
+**한국전력 지능형 고객센터 | 2026.04 ~ 2026.08**
 
-**1. 주요 내용**
-  - 카카오 알림톡 API 서버 Servlet -> SpringBoot 로 마이그레이션 진행
-  - RDB 설계 및 관리 진행
-    
-**2. 기여한 점**
-  - 카카오 알림톡 패치시 마다 들어가는 개발 **Cost 70% 향상**
-  - 중복 코드 모듈화 및 코드 리팩토링 전반 진행
-    
-**3. 결과/성과**
-  - 마이그레이션을 통해 **가독성과 유지보수성 50% 향상**
-  - Api 서버 URI 재정립으로 불필요한 **엔드포인트 40% 제거**
+* STT 기반 실시간 상담 대화록 처리 시스템 구축
+* 일평균 약 5만 Call / 10만 Session 규모 트래픽 처리
+* 상담 종료 시 집중되는 TA REST API 요청에 Sharding 구조 적용
+* 녹취, RTGW, TA 등 다중 시스템 간 로그 및 트래픽 흐름 기반 장애 분석
+* 구축부터 운영 안정화까지 전 과정 수행
 
+**LGU+ AICC 고도화 | 2025.05 ~ Present**
 
-## 🌱 프로젝트
+* Exaone, ixi, Selvas 등 3종 STT 엔진 통합
+* gRPC 기반 RTGW를 Plugin 구조로 확장
+* 신규 ixi STT Plugin 설계부터 운영 반영까지 담당
+* Redis 기반 중앙 Session 관리 및 Active-Active 구조 지원
+* Redis Fail-Open 정책 및 설정 파일 Hot Reload 구조 적용
 
-```
-각 프로젝트에 자세한 설명은 프로젝트 별 Github 링크을 눌러보시면 확인 가능합니다!
-```
+**우리투자증권 | 2025.06 ~ 2025.07**
 
-### HStar Project | 2024.04 ~ 2024.07
+* 실시간 gRPC 처리 흐름과 외부 REST 전송 경로 분리
+* 비동기 Queue 기반 데이터 전송 및 순서 보장
+* 이벤트 기반 실시간 Calllog 저장 구조 설계
+* 설정 파일 내 민감 정보 AES-256 암호화 적용
 
-https://github.com/hstar0124/hstar-project
+**KT AICC 고도화 | 2025.01 ~ 2025.02**
 
-### 프로젝트 아키텍처
+* Java 17 / Spring Boot 3 기반 전면 업그레이드
+* Hibernate 6 Migration 및 Entity / Query 구조 개선
+* Maven → Gradle Migration
+* Application Memory 사용량 약 **15% 감소**
+* Build Time 약 **30% 단축**
 
+---
 
-<img src="https://github.com/hstar0124/hstar-project/assets/57317290/cdd2701d-590f-49ac-83a5-f8d310cf3005" width="650" height="460"/>
+### 두다지 | Backend Developer
 
-### Socket 서버 구조도
+**2023.06 ~ 2024.01**
 
-<img src="https://github.com/user-attachments/assets/7a8baf3f-605c-4cb0-ab09-27693a5fa7e2" width="770" height="380"/>
+C++ 기반 자동 수집 애플리케이션을 Python으로 마이그레이션하고
+수집 실패 원인 분석 및 시스템 구조 개선을 담당했습니다.
 
+* C++ → Python Migration
+* 반복 및 중복 코드 모듈화
+* 테스트 코드 도입을 통한 실패 지점 가시화
+* 관계형 데이터베이스 분석 및 재설계
+* AWS Ubuntu 환경 개발 및 배포
+* 기존 수집 실패 대상 중 약 **70%를 추가 수집 가능하도록 개선**
+* 불필요한 소스 코드 **30% 이상 감소**
 
-**개발 환경**
+---
 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSharp-512BD4?style=flat-square&logo=csharp&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/EntityFrameWorkCore-512BD4?style=flat-square&logo=&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Asp.NetCore-512BD4?style=flat-square&logo=dotnet&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Protobuf-F50057?style=flat-square&logo=Protobuf&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/boost-0288D1?style=flat-square&logo=b&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/VisualStudio2022-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/></a>
+### 아이엠오 | Backend Developer
 
-소켓통신, 로그인/회원가입 API 서버, DB 관련 담당하여 개발 진행
+**2020.10 ~ 2022.04**
 
-**[API 서버]**
+일평균 **200만 건 이상**이 발송되는 문자 및 알림톡 시스템을 개발하고 운영했습니다.
 
-- 로그인/유저 CRUD 기능 제공
-- Protobuf 를 활용한 Http Body 직렬화/역직렬화 하여 **JSON 대비 패킷 2/3 절감**
-- Password 를 **Hash + Salt 하여 개인정보 보호**
-- Service를 Read / Write 부분을 분리하여 구현함으로 복잡성 관리
-- **MVC 패턴**을 적용하여 **유지보수성, 확장성, 유연성** 확보
-- **EntityFrameworkCore** 를 적용하여 **생산성** 향상
+#### 메시징 시스템
 
-**[소켓 서버]**
+* 대규모 메시지 발송 Application 개발 및 장애 대응
+* Spike Traffic 발생 시 Application이 Down되는 문제 분석 및 해결
+* DB Connection 반환 누락 등 Resource Leak 문제 해결
+* 기업별 메시징 Application Customizing
+* CentOS 기반 IDC 환경 운영 및 배포
+* 테스트가 존재하지 않던 Legacy Codebase에 테스트 도입
+* **Line Coverage 0% → 65%**
 
-- **Redis** 에서 Session Key 를 활용하여 로그인 처리함으로 **API Server 와 결합도 낮춤**
-- **비동기 TCP 소켓 통신** 기능
-- Protobuf 를 활용한 Http Body 직렬화/역직렬화 하여 **JSON 대비 패킷 2/3 절감**
-- 각 유저 메시지를 **Swap Queue 구조**로 구현하여 Lock 최소화
-- 최대 동접자를 관리 할 수 있도록 **유저 대기열 구현**
-- **중복 로그인 체크** 하여 기존 로그인 Close 구현
-- DB 작업은 Queue에 담아 **Multi thread** 로 처리
+#### 카카오 알림톡 API
 
-### Whagile(애자일 서비스) | 2022.06 ~ 2022.07
-https://github.com/hstar0124/whagile
+* Servlet 기반 API Server → Spring Boot Migration
+* RDB 설계 및 관리
+* 중복 코드 모듈화 및 리팩토링
+* API URI 재설계를 통해 불필요한 Endpoint 약 **40% 제거**
+* 카카오 알림톡 Spec 변경에 따른 유지보수 비용 감소
 
-**개발 환경**
+---
 
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Express.js-FF7200?style=flat-square&logo=expressjs&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Docket-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>
+## 🚀 Side Projects
 
-회원관리, DB 설계 및 스크립트 관리, Docker/Docker-compose 세팅을 담당하여 개발 진행
-- **Figma** 를 이용하여 프로토타입 제작
-- **JWT 토큰**을 이용한 로그인 구현
-- **AWS EC2**에 **Docker**로 기동
-- MVC 패턴을 적용하여 개발
-- **RDB 설계**할 때 이상현상을 최소한으로 하기 위해 **정규화** 진행 및 DB Script 관리 담당
-- **MySQL** 을 활용한 DB 처리
+### HStar Project
 
-### GroupWhale(그룹웨어 서비스) | 2020.04 ~ 2020.05
-https://github.com/hstar0124/group-whale
+**2024.04 ~ 2024.07**
 
-**개발 환경**
+🔗 https://github.com/hstar0124/hstar-project
 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Ajax-0769AD?style=flat-square&logo=Ajax&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+C++ Socket Server와 C# ASP.NET Core API Server를 직접 설계하며
+서버 간 통신과 비동기 네트워크 프로그래밍을 실험한 프로젝트입니다.
 
-로그인/회원가입, 계정관리, 피드형 게시판, 조직도 관리, 날씨 크롤링을 담당하여 개발 진행
-- Draw.io를 이용하여 **시퀀스 다이어그램**, **유스케이스 다이어그램** 작성
-- **RDB 설계**할 때 이상현상을 최소한으로 하기 위해 **정규화** 진행
-- Spring 내에 **bcrypt**를 활용하여 **비밀번호 암호화**
-- **JSOUP api** 를 활용하여 네이버 날씨 **크롤링**
-- **jQuery, Ajax** 를 활용하여 페이지 일부분 갱신
-- **Mybatis**를 활용한 DB(Oracle) CRUD 진행
+### Architecture
 
-### 중고구매(중고매입 및 렌탈 서비스) | 2020.02 ~ 2020.03
-https://github.com/hstar0124/second-rental
+<img src="https://github.com/hstar0124/hstar-project/assets/57317290/cdd2701d-590f-49ac-83a5-f8d310cf3005" width="650"/>
 
-**개발 환경**
+### Socket Server
 
-<img src="https://img.shields.io/badge/Java-F8DC75?style=flat-square&logo=java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Ajax-0769AD?style=flat-square&logo=Ajax&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Websocket-010101?style=flat-square&logo=Websocket&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<img src="https://github.com/user-attachments/assets/7a8baf3f-605c-4cb0-ab09-27693a5fa7e2" width="770"/>
 
-1:1 실시간 채팅, 장바구니, 위시리스트, 상품상세페이지를 담당하여 개발 진행
-- **WebSocket** 을 이용한 채팅 구현
-- JSP와 **Servlet** 을 활용한 Client-Server 로직 구현
-- Chart.js 를 활용한 상품 정보 차트화
-- **jQuery, Ajax** 를 활용하여 페이지 일부분 갱신
-- **RDB 설계**할 때 이상현상을 최소한으로 하기 위해 **정규화** 진행 및 DB Script 관리 담당
-- **Mybatis**를 활용한 DB(Oracle) CRUD 진행
+#### API Server
 
-## 😄 학력사항 및 자격증
+* 로그인 및 User CRUD API 구현
+* Protobuf 기반 HTTP Body 직렬화 / 역직렬화
+* JSON 대비 Packet Size 약 **2/3 감소**
+* Password Hash + Salt 적용
+* Read / Write Service 분리를 통한 복잡성 관리
+* ASP.NET Core + Entity Framework Core 기반 API 구현
 
-### 한국외국어대학교 디지털정보공학과 졸업 | 2008.03 ~ 2015.02
+#### Socket Server
 
-### 정보처리기사 | 2014.05
-한국산업인력공단
+* C++ 기반 비동기 TCP Socket Server 구현
+* Redis Session Key 기반 로그인 처리
+* API Server와 Socket Server 간 Session 의존성 분리
+* Swap Queue 구조를 활용한 Lock 최소화
+* 접속자 수 제한을 위한 User Waiting Queue 구현
+* Duplicate Login 감지 및 기존 Connection 종료
+* DB 작업을 Queue에 적재하여 Multi-thread 처리
+* Protobuf 기반 Packet 직렬화
+
+---
+
+<details>
+<summary><b>📦 Previous Projects</b></summary>
+
+### Whagile
+
+**2022.06 ~ 2022.07**
+
+🔗 https://github.com/hstar0124/whagile
+
+* React / Node.js / Express 기반 Web Application
+* JWT 기반 Authentication
+* MySQL Schema 설계
+* Docker / Docker Compose 기반 실행 환경 구성
+* AWS EC2 배포
+
+### GroupWhale
+
+**2020.04 ~ 2020.05**
+
+🔗 https://github.com/hstar0124/group-whale
+
+* Spring 기반 Groupware Web Application
+* 로그인 / 회원 / 조직도 / Feed 게시판 구현
+* Spring Security + BCrypt
+* Oracle / MyBatis 기반 DB 처리
+* jQuery / Ajax 활용
+
+### Second Rental
+
+**2020.02 ~ 2020.03**
+
+🔗 https://github.com/hstar0124/second-rental
+
+* Java Servlet / JSP 기반 Web Application
+* WebSocket 기반 1:1 실시간 채팅
+* 상품 / 장바구니 / Wishlist 기능
+* Oracle / MyBatis 기반 DB 처리
+
+</details>
+
+---
+
+## 🎯 What I'm Interested In
+
+* High Performance Server
+* Real-time Processing
+* Distributed Systems
+* Fault Tolerance
+* Asynchronous Architecture
+* Network Programming
+* AI Backend / AI Infrastructure
+* STT / TTS / LLM Integration
+* System Architecture & Refactoring
